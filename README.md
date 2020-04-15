@@ -2,8 +2,12 @@
 
 ## Problem Statement
 
->Imagine you are a deep learning scientist working for a bank and are given a data set that contains information of customers from this bank >applying for an advanced credit card.
->So basically, this information contained in the dataset is the data that the customers had to provide when filling the application form.
->The goal is to detect potential fraud within these applications.
->Give an explicit list of the customers who potentially cheated using unsupervised learning.
+>Imagine you are a deep learning scientist working for a bank and are given a data set that contains information of customers from this bank applying for an advanced credit card. Detect the potential fraudulent customers within the applications.
 
+## DataSet
+
+The dataset is named Credit_Card_Applications.csv and is considerably small
+
+## Solutions
+
+I have created a list of possible fraudulent customers using the Self Organizing Map algorithm. To create a SOM, I used the MINISOM.py library which can be downloaded online.
