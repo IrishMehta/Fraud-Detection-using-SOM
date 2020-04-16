@@ -12,10 +12,10 @@ The dataset is attached as Credit_Card_Applications.csv
 
 ## Solutions
 
-*I have created a list of possible fraudulent customers using the Self Organizing Map algorithm. 
+* I have created a list of possible fraudulent customers using the Self Organizing Map algorithm. 
 
-*The Jupyter Notebook is easy to follow along.
+* The Jupyter Notebook is easy to follow along.
 
-*To create a SOM, I used the MINISOM.py library which can be copied online or can be downloaded from your prompt/terminal by just typing 
+* To create a SOM, I used the MINISOM.py library which can be copied online or can be downloaded from your prompt/terminal by just typing 
 
 `pip install MiniSom`
